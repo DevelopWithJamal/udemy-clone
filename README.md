@@ -21,6 +21,15 @@
 
 ---
 
+## 🚀 Live Preview
+
+Check out the live demo of this project here:  
+[![Live Preview](https://img.shields.io/badge/Live-Preview-blue?style=for-the-badge&logo=github)](https://developwithjamal.github.io/udemy-clone/)
+
+Or click this link: [https://developwithjamal.github.io/udemy-clone/](https://developwithjamal.github.io/udemy-clone/)
+
+
+
 ## 🧰 Installation
 
 ```bash
@@ -28,11 +37,4 @@ git clone https://github.com/DevelopWithJamal/udemy-clone.git
 cd udemy-clone
 # Open index.html in your browser
 
-
-## 🚀 Live Preview
-
-Check out the live demo of this project here:  
-[![Live Preview](https://img.shields.io/badge/Live-Preview-blue?style=for-the-badge&logo=github)](https://developwithjamal.github.io/udemy-clone/)
-
-Or click this link: [https://developwithjamal.github.io/udemy-clone/](https://developwithjamal.github.io/udemy-clone/)
 
