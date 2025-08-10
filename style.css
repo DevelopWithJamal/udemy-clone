@@ -433,9 +433,9 @@
   right: -250px;
   width: 250px;
   height: 100%;
-    border: 1px solid;
-  background:  #000000;
- 
+    border: 1px solid #ffe399;
+  background:  #ffffff;
+ box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
   padding: 20px;
   box-sizing: border-box;
   transition: 0.3s;
@@ -445,15 +445,22 @@
 .sidebar a {
   display: block;
   margin: 15px 0;
-  color: white;
+  color: rgb(0, 0, 0);
   text-decoration: none;
+  transition: .5s
+}
+
+.sidebar a:hover{
+    color: #1beb00;
+    transition: .5s
+
 }
 
 .close-btn {
   background: none;
   border: none;
   font-size: 28px;
-  color: white;
+  color: rgb(0, 0, 0);
   float: right;
   cursor: pointer;
 }
