@@ -1,6 +1,6 @@
 # Udemy Clone
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+my+Udemy+Clone+Project!;Built+with+Vanilla+HTML%2C+CSS+and+JavaScript;)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+my+Udemy+Clone+Project!;Built+with+Vanilla+HTML%2C+CSS+JavaScript;)
 
 ---
 
@@ -27,3 +27,12 @@
 git clone https://github.com/DevelopWithJamal/udemy-clone.git
 cd udemy-clone
 # Open index.html in your browser
+
+
+## 🚀 Live Preview
+
+Check out the live demo of this project here:  
+[![Live Preview](https://img.shields.io/badge/Live-Preview-blue?style=for-the-badge&logo=github)](https://developwithjamal.github.io/udemy-clone/)
+
+Or click this link: [https://developwithjamal.github.io/udemy-clone/](https://developwithjamal.github.io/udemy-clone/)
+
