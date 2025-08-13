@@ -26,13 +26,15 @@
     <!-- This Popup -->
   <div> 
     <div class="popup">
-        <div class="popup__content">
+     
+          <div class="popup__content">
              <h3>AI is changing the game| Get the skills with Udemy Business.</h3>
             <p>Get access to 30,000+ top courses with Udemy Business.</p>
-        </div>
+     
+      </div>
 
-       <i class="fa-solid fa-xmark" style="color: #000000;"></i>
-
+       <i id="close" class="fa-solid fa-xmark " style="color: #ffffff;"></i>
+ 
 
     </div>
 
@@ -771,6 +773,11 @@
 
             }
         }
+
+
+        document.getElementById('close').addEventListener('click', function () {
+            document.querySelector('.popup').style.display = 'none';
+        });
     </script>
 
 

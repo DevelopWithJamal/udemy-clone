@@ -6,7 +6,27 @@
 }
 /* Popup */
 
-
+.popup{
+    display: flex;
+    align-items: center;
+    background-color: #5022C3;
+   padding: 10px;
+   color: white;
+ 
+     
+}
+.popup__content{
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.popup i{
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+}
 
 /* ---------------------- NAVBAR ---------------------- */
 .navbar {
