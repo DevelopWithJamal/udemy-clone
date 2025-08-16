@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Features
+## 🚀 Udemy Clone Features
 
 - 🎓 Browse courses with images, titles, and descriptions  
 - 📄 View detailed course pages  
